@@ -1,0 +1,15 @@
+{
+    "id": "zammad",
+    "name": "Zammad",
+    "version": "1.0.0",
+    "description": "Zammad",
+    "main": "index.js",
+    "author": "Anne Douwe Bouma <annedouwe@bouma.tech>",
+    "license": "MIT",
+    "config": {
+        "hasNotificationSound": true,
+        "hasDirectMessages": false,
+        "hasIndirectMessages": true,
+        "hasCustomUrl": true
+    }
+}
